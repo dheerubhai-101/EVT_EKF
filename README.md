@@ -6,6 +6,7 @@ Ground Truth
 If available, it is useful to plot the ground truth position and orientation before starting the assignment.
 <img align = "left" src =  "https://user-images.githubusercontent.com/83055325/182040917-56026abb-f52a-4ff0-b6e3-8ca9c7468fb0.png"
 width="420" height="270" >
+
 <img align = "right" src =  "https://user-images.githubusercontent.com/83055325/182040924-dd376354-b999-4224-bea4-a7b2af50ab0d.png"
 width="420" height="270" >
 
