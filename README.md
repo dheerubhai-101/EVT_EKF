@@ -5,7 +5,7 @@ we recursively estimate the position of a vehicle along a trajectory using avail
 Ground Truth
 
 <img src =  "https://user-images.githubusercontent.com/83055325/182040917-56026abb-f52a-4ff0-b6e3-8ca9c7468fb0.png"
-width="420" height="270"
+width="420" height="270">
 
 <img src=  "https://user-images.githubusercontent.com/83055325/182040924-dd376354-b999-4224-bea4-a7b2af50ab0d.png"
 width="420" height="270"     >
