@@ -6,10 +6,10 @@ Ground Truth
 
 <img align = "left" src =  "https://user-images.githubusercontent.com/83055325/182040917-56026abb-f52a-4ff0-b6e3-8ca9c7468fb0.png"
 width="420" height="270"
-align = "right" src2 =  "https://user-images.githubusercontent.com/83055325/182040924-dd376354-b999-4224-bea4-a7b2af50ab0d.png"
-width="420" height="270"     >
 
-<!-- <img  > -->
+<img align = "right" src=  "https://user-images.githubusercontent.com/83055325/182040924-dd376354-b999-4224-bea4-a7b2af50ab0d.png"
+width="420" height="270"     >
+ >
 <img align = "left" src =  "https://user-images.githubusercontent.com/83055325/182041408-b6a5cacc-6386-4cd8-aff8-d13a84e15b7d.jpg"
 width="420" height="270" >
 <img align = "right" src =  "https://user-images.githubusercontent.com/83055325/182040535-95db1c12-ffe7-4c40-9a89-e93cbc6fed2d.jpg"
